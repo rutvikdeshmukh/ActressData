@@ -1,0 +1,4 @@
+              1001 priyanka chopra      india                D:\internship_data\projects\ActressData\actress_images\i1.jpg                                        D:\internship_data\projects\ActressData\country_images\i.png
+              2001 ercel hande          Turkey               D:\internship_data\projects\ActressData\actress_images\t1.jpg                                        D:\internship_data\projects\ActressData\country_images\t.jpg
+              3001 Angelina Jolie       United States        D:\internship_data\projects\ActressData\actress_images\u1.jpg                                        D:\internship_data\projects\ActressData\country_images\u.jpg
+              4001 Emma Charlotte Duerr British              D:\internship_data\projects\ActressData\actress_images\u3.jpg                                        D:\internship_data\projects\ActressData\country_images\b.png

@@ -1,0 +1,16 @@
+D:\internship_data\projects\ActressData\others_actress\i1.jpg                                                       100 Alia Bhatt
+D:\internship_data\projects\ActressData\others_actress\i2.jpg                                                       101 Shraddha Kapoor      india
+D:\internship_data\projects\ActressData\others_actress\b4.jpg                                                       993 Rachel Weisz         British
+D:\internship_data\projects\ActressData\others_actress\b3.jpg                                                       994 Emily Blunt          British
+D:\internship_data\projects\ActressData\others_actress\b2.jpg                                                       995 Keira Knightley      British
+D:\internship_data\projects\ActressData\others_actress\b1.jpg                                                       996 Kate WinsletD        British
+D:\internship_data\projects\ActressData\others_actress\u4.jpg                                                       997 Amy Adams            United States
+D:\internship_data\projectsActressData\others_actress\u3.jpg                                                        998 Jennifer Lawrence    United States
+D:\internship_data\projects\ActressData\others_actress\u2.jpg                                                       999 Meryl Streep         United States
+D:\internship_data\projects\ActressData\others_actress\i4.jpg                                                      1010 Pooja Hegde          india
+D:\internship_data\projects\ActressData\others_actress\i3.jpg                                                      3001 Katrina Kaif         india
+D:\internship_data\projects\ActressData\others_actress\u1.jpg                                                      8001 Jennifer Aniston     United States
+D:\internship_data\projects\ActressData\others_actress\t1.jpg                                                      9000 Esra Bilgiç          Turkey
+D:\internship_data\projects\ActressData\others_actress\t2.jpg                                                      9001 Serenay Sarikaya     Turkey
+D:\internship_data\projects\ActressData\others_actress\t3.jpg                                                      9002 Meryem Uzerli        Turkey
+D:\internship_data\projects\ActressData\others_actress\t4.jpg                                                      9003 Neslihan Atagül      Turkey
